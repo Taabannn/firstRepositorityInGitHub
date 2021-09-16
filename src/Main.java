@@ -5,6 +5,7 @@ public class Main {
         System.out.println("This program tests Sequence Class and compares result to String Class");
         System.out.println("By using .replace, .concat methods the value array of Sequence changes(in contrast to string)");
         System.out.println("*".repeat(30));
+        System.out.println("master branch is ready");
         //Test concat method
 
         Sequence seq1 = new Sequence();
